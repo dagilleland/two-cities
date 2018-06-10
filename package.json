@@ -1,0 +1,22 @@
+{
+  "name": "two-cities",
+  "version": "1.0.0",
+  "description": "Tale of Two Cities, ported to VuePress by Dan Gilleland",
+  "main": "index.html",
+  "scripts": {
+    "test": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagilleland/two-cities.git"
+  },
+  "author": "Charles Dickens",
+  "license": "SEE LICENSE IN About/license.md",
+  "bugs": {
+    "url": "https://github.com/dagilleland/two-cities/issues"
+  },
+  "homepage": "https://github.com/dagilleland/two-cities#readme",
+  "devDependencies": {
+    "vuepress": "^0.10.1"
+  }
+}
